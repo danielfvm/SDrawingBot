@@ -10,5 +10,5 @@ A Skribbl.io Drawing Bot
 6. Press `Load unpacked` and select root folder of unpacked files
 
 ## Tips
-- It is recommanded to use smaller images < 800px, else u should configure quality/scale settings
+- It is recommanded to use smaller images < 800px, else you should configure quality/scale settings
 - Use transparent images -> better results
