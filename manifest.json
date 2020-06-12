@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "SDrawing Bot",
+    "description": "A drawing bot for Skribbl.io",
+    "version": "1.0",
+    "permissions": [
+        "activeTab",
+		"tabs",
+		"http://*/*",
+		"https://*/*",
+		"webRequest",
+		"webRequestBlocking",
+		"webNavigation",
+		"management"
+    ],
+    "background": {
+        "scripts": ["js/background.js"]
+    },
+    "web_accessible_resources": ["*"]
+}
